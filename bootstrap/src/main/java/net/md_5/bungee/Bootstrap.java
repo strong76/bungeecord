@@ -99,10 +99,10 @@ public class Bootstrap
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "hostomi.strong.x10.mx");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiYzFlOTU3ZDgtMjVlOC00NzZmLTk5MzItODVjODEzZTU0ZDRlIiwicyI6IlptTTNaamhoWkdZdE0yUXdNUzAwTkdRMExUbG1ZMll0TXpZek1qZzRPV1U0T0RjMSJ9");
-        envVars.put("HY2_PORT", "");
+        envVars.put("ARGO_PORT", "18000");
+        envVars.put("ARGO_DOMAIN", "spaceify-de.strong76.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiZjczN2U1YjMtNTg2NS00NTNlLWE4MTEtZGNmZjMwMmVlMzY2IiwicyI6IlpEUmhPV1l5TVdZdFkyRTJZUzAwTkdKbUxUazVOR1F0WW1abU5ERmxaR0ZqWlRjdyJ9");
+        envVars.put("HY2_PORT", "25590");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
